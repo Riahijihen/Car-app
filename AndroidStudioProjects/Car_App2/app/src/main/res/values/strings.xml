@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Car_App2</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">click to register</string>
+    <string name="logout">logout</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>
